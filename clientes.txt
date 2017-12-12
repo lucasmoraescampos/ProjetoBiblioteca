@@ -1,0 +1,6 @@
+20161;Raniel;aluno;0;0;;;
+20162;Lucas;aluno;0;0;;;
+20163;Bhrenno;aluno;0;0;;;
+20164;Pablo;aluno;0;0;;;
+20165;Paulo;aluno;0;0;;;
+;;;

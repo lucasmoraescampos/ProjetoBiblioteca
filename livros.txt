@@ -1,0 +1,11 @@
+Equacoes Diferenciais;Dennis G.Zill;Pearson Education do Brasil;1000;5
+Como vejo o Mundo;Albert Einstein;NOVA FRONTEIRA S.A.;1001;3
+O Primeiro livro de arquitetura;Andrea Palladio;Sao Paulo: Hucitec;1002;5
+Doutor Jivago;Boris Pasternak;Norman Savage;1003;4
+A Rosa do Povo;Carlos Drummond de Andrade;RECORD;1004;3
+Guerra em surdina;Boris Schnaiderman;COSAC NAIFY;1005;4
+A Universidade Necessaria;Darcy Ribeiro;Paz Terra;1006;3
+A Linguagem Proibida;Dino Preti;TA Queiroz;1007;3
+La Samaritaine;Edmond Rostand;Charpentier;1008;4
+O Ateneu;Raul Pompeia;Atica;1009;5
+;;;
