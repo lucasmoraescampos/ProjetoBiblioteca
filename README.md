@@ -1,4 +1,4 @@
-# Projeto_Biblioteca
+# ProjetoBiblioteca
 <div>
   <p><b>Projeto C++ QtCreator feito para o estudo dos seguintes conceitos:</b></p>
   <p> * Orientação a objetos </p>
